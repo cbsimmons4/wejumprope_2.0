@@ -51,8 +51,7 @@ export default function ShopSection() {
     <div className={classes.root}>
         <h1>Shop</h1>
         <div className = {classes.shopContainer}>
-            shop coming soon...
-            {/* {createShopItem('WEjumpROPE Fanny Pack ($15)', fannyButton, fannypack)} */}
+            {createShopItem('WEjumpROPE Fanny Pack ($15)', fannyButton, fannypack)}
             {/* Example: How to add more shop items */}
             {/* {createShopItem('WEjumpROPE Fanny Pack ($15)', fannyButton, fannypack)} */}
         </div>
