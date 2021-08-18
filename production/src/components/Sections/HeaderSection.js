@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
   imageWrapper: {
       width: '50%',
       margin: 'auto',
-      marginBottom: -90
+      marginBottom: -50
   },
   image: {
       width: '100%'

@@ -16,12 +16,12 @@ const useStyles = makeStyles((theme) => ({
       marginTop: 100,
       paddingBottom: 100,
       width: '80%',
-      minWidth: 400,
+      minWidth: 250,
       margin: 'auto'
   },
   shopItem: {
       textAlign: 'left',
-      maxWidth: 400,
+      maxWidth: 250,
       width: '100%',
       margin: 'auto',
       marginTop: 100

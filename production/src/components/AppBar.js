@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
   },
   menuItemText: {
     marginLeft: 20,
-    marginRight: 240,
+    marginRight: 150,
   }
   
 }));
