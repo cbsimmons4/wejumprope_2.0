@@ -122,7 +122,7 @@ export default function AboutSection() {
                 </Button>
             </Grid>
         </Grid>
-        <Modal
+        {/* <Modal
         open={open}
         onClose={handleClose}
         >
@@ -155,7 +155,7 @@ export default function AboutSection() {
                     }
                 </ClickAwayListener>
             </div>
-        </Modal>
+        </Modal> */}
     </div>
     );
 }
